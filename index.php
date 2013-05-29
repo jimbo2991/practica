@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
     <head>
@@ -17,6 +18,12 @@
             return $mul;
         }
         
+         function resta($a,$b){
+            $restar=$a-$b;
+            return $restar;
+        }
+        
         ?>
     </body>
 </html>
+
