@@ -11,6 +11,12 @@
             $sumar=$a+$b;
             return $sumar;
         }
+        
+         function multiplicacio($a,$b){
+            $mul=$a*$b;
+            return $mul;
+        }
+        
         ?>
     </body>
 </html>
