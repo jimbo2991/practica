@@ -11,6 +11,12 @@
             $sumar=$a+$b;
             return $sumar;
         }
+
+        function resta($a,$b){
+            $restar=$a-$b;
+            return $restar;
+        }
+
         ?>
     </body>
 </html>
